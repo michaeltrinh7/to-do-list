@@ -1,1 +1,1 @@
-A simple todo app using React. You can view the app at https://michaeltrinh7.github.io/to-do-list/ or see more details at https://michaeltrinh7.wordpress.com/2024/03/15/todo-listbuilding-a-simple-to-do-list-app-with-react-choosing-the-right-state-management-approachtodo-list/
+A simple todo app using React. You can view the app at https://michaeltrinh7.github.io/to-do-list/index.html or see more details at https://michaeltrinh7.wordpress.com/2024/03/15/todo-listbuilding-a-simple-to-do-list-app-with-react-choosing-the-right-state-management-approachtodo-list/
